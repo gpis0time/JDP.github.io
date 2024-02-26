@@ -1,10 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Nova%20Cut:700|Nova%20Cut:400');
+
+
+
 /* globals */
 * {
     box-sizing: border-box;
-    font-family: 'Comic Sans MS', cursive;
+    font-family: 'Nova Cut';
   }
 
 
+
+  
 /* The navigation bar */
 .navbar {
     z-index: 10;
@@ -155,6 +161,8 @@ body {
   opacity: 0; 
   transform: scale(0.1, 1);
 }
+
+
 
 
 @media (max-width: 1400px) {
