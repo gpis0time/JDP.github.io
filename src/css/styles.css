@@ -8,9 +8,6 @@
     font-family: 'Nova Cut';
   }
 
-
-
-  
 /* The navigation bar */
 .navbar {
     z-index: 10;
@@ -32,6 +29,7 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-size: 30px;
 }
 
 /* text field with other content on side */
