@@ -8,22 +8,7 @@
     font-family: 'Nova Cut';
   }
 
-a:link { 
-  text-decoration: none; 
-} 
-a:visited { 
-  text-decoration: none; 
-} 
-a:hover { 
-  text-decoration: none; 
-} 
-a:active { 
-  text-decoration: none; 
-}
-  
-h1 {
-  text-decoration: underline;
-}​
+
 
   
 /* The navigation bar */
@@ -177,6 +162,23 @@ body {
   transform: scale(0.1, 1);
 }
 
+a:link { 
+  text-decoration: none; 
+} 
+a:visited { 
+  text-decoration: none; 
+} 
+a:hover { 
+  text-decoration: none; 
+} 
+a:active { 
+  text-decoration: none; 
+}
+  
+h1 {
+  text-decoration: underline;
+}​
+
 
 @media (max-width: 1400px) {
     .sideText {
@@ -186,3 +188,4 @@ body {
         display: none;
     }
 }
+
