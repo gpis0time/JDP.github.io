@@ -176,14 +176,3 @@ a:active {
 h1 {
   text-decoration: underline;
 }​
-
-
-@media (max-width: 1400px) {
-    .sideText {
-        width: 100%; 
-    }
-    .sideIMG {
-        display: none;
-    }
-}
-
