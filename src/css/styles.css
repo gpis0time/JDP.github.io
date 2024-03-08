@@ -29,7 +29,7 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 1vw;
+    font-size: 1.5vw;
 }
 
 /* text field with other content on side */
@@ -184,5 +184,8 @@ h1 {
   }
   .sideIMG {
       display: none;
+  }
+  .navbar a{
+    font-size: 3vw;
   }
 }
